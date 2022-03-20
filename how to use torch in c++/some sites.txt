@@ -1,0 +1,8 @@
+How to configure opencv in VS:
+https://www.cnblogs.com/fourseas/p/6294256.html
+
+How to configure libtorch in VS:
+https://blog.csdn.net/yanfeng1022/article/details/106481312
+
+How to get model in python and load it in cpp files:
+https://zhuanlan.zhihu.com/p/72750321
